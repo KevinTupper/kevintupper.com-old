@@ -7,7 +7,7 @@
 
 **Beautiful Jekyll** is a ready-to-use template to help you create a beautiful website quickly. Perfect for personal sites, blogs, or simple project websites.  [Check out a demo](https://beautifuljekyll.com) of what you'll get after just two minutes.  You can also look at [my personal website](https://deanattali.com) to see it in use, or see examples of websites other people created using this theme [below](#showcased-users-success-stories).
 
-**If you enjoy this theme, please consider [supporting me](http://paypal.me/daattali) or [sponsoring me](https://github.com/sponsors/daattali) for developing and maintaining it for over 5 years.**
+**If you enjoy this theme, please consider [supporting me](https://paypal.me/daattali) or [sponsoring me](https://github.com/sponsors/daattali) for developing and maintaining it for over 5 years.**
 
 <p align="center">
   <a style="display: inline-block;" href="https://paypal.me/daattali">
@@ -180,13 +180,13 @@ Beautiful Jekyll has been used in over 500 websites in its first 6 months, and t
 | :------ |:----------- |
 | [repidemicsconsortium.org/](https://www.repidemicsconsortium.org/) | R Epidemics Consortium |
 | [vaccineimpact.org](https://www.vaccineimpact.org/) | Vaccine Impact Modelling Consortium |
-| [derekogle.com/fishR](http://derekogle.com/fishR/) | Using R for Fisheries Analyses |
-| [joecks.github.io/clipboard-actions](http://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
-| [deanattali.com/shinyjs](http://deanattali.com/shinyjs/) | shinyjs - an R package |
-| [blabel.github.io](http://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
-| [reactionic.github.io](http://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
-| [ja2-stracciatella.github.io](http://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
-| [ddocent.com](http://ddocent.com/) | RADSeq Bioinformatics and Beyond |
+| [derekogle.com/fishR](https://derekogle.com/fishR/) | Using R for Fisheries Analyses |
+| [joecks.github.io/clipboard-actions](https://joecks.github.io/clipboard-actions/) | Clipboard Actions - an Android app |
+| [deanattali.com/shinyjs](https://deanattali.com/shinyjs/) | shinyjs - an R package |
+| [blabel.github.io](https://blabel.github.io) | Library for canonicalising blank node labels in RDF graphs |
+| [reactionic.github.io](https://reactionic.github.io) | Create iOS and Android apps with React and Ionic |
+| [ja2-stracciatella.github.io](https://ja2-stracciatella.github.io) | Jagged Alliance 2 Stracciatella |
+| [ddocent.com](https://ddocent.com/) | RADSeq Bioinformatics and Beyond |
 | [guitarlessons.org](https://www.guitarlessons.org/) | Free online guitar lessons for all |
 | [terremotocentroitalia.info](https://www.terremotocentroitalia.info/) | Information about the 2016 Italy earthquake |
 
@@ -196,14 +196,14 @@ Beautiful Jekyll has been used in over 500 websites in its first 6 months, and t
 | Website | Who | What |
 | :------ |:--- | :--- |
 | [deanattali.com](https://deanattali.com) | Dean Attali | Creator of Beautiful Jekyll |
-| [ouzor.github.io](http://ouzor.github.io) | Juuso Parkkinen | Data scientist |
-| [derekogle.com](http://derekogle.com/) | Derek Ogle | Professor of Mathematical Sciences and Natural Resources |
-| [melyanna.github.io](http://melyanna.github.io/) | Melyanna | Shows off her nice art |
-| [chauff.github.io](http://chauff.github.io/) | Claudia Hauff | Professor at Delft University of Technology |
-| [kootenpv.github.io](http://kootenpv.github.io/) | Pascal van Kooten | Data analytics |
-| [sjackman.ca](http://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
-| [anudit.in](http://www.anudit.in/) | Anudit Verma | Engineering student |
-| [sharepointoscar.github.io](http://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
+| [ouzor.github.io](https://ouzor.github.io) | Juuso Parkkinen | Data scientist |
+| [derekogle.com](https://derekogle.com/) | Derek Ogle | Professor of Mathematical Sciences and Natural Resources |
+| [melyanna.github.io](https://melyanna.github.io/) | Melyanna | Shows off her nice art |
+| [chauff.github.io](https://chauff.github.io/) | Claudia Hauff | Professor at Delft University of Technology |
+| [kootenpv.github.io](https://kootenpv.github.io/) | Pascal van Kooten | Data analytics |
+| [sjackman.ca](https://sjackman.ca) | Shaun Jackman | PhD candidate in bioinformatics |
+| [anudit.in](https://www.anudit.in/) | Anudit Verma | Engineering student |
+| [sharepointoscar.github.io](https://sharepointoscar.github.io) | Oscar Medina | Independent Hacker |
 | [ocram85.com](https://ocram85.com) | Marco Blessing | A personal blog about PowerShell and automation |
 | [khanna.cc](https://khanna.cc/) | Harry Khanna | Law and software |
 
@@ -251,7 +251,7 @@ You can also contribute by becoming an [official sponsor](https://github.com/spo
 
 This template was not made *entirely* from scratch. I'd like to give special thanks to [Jekyll Now](https://github.com/barryclark/jekyll-now) and [Bootstrap Clean Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog), from whom I've taken several ideas initially.
 
-I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
+I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](https://jekyllthemes.org/), and another [Jekyll Themes](https://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
 # Known limitations
 
