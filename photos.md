@@ -2,7 +2,7 @@
 layout: page
 title: Photos
 galleries:
-  - title: Friendship, Maine
+  - title: Friendship, ME - 2015
     image: /galleries/friendship/friendship-maine-007.jpg
     url: /photos/friendship-maine-2015
 ---
