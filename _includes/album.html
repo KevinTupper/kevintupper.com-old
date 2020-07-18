@@ -1,3 +1,5 @@
 <div id="lightgallery">
-    {% for image in site.static_files %}{% if image.path contains include.albumname %}<a href="{{ image.path }}" ><img src="{{ image.path }}" /></a>{% endif %}{% endfor %}
+    {% for image in site.static_files %}{% if image.path contains include.albumname %}<a href="{{ image.path }}" ><img src="{{ image.path }}" />
+        <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ file.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
+    </a>{% endif %}{% endfor %}
 </div>
