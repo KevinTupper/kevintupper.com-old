@@ -1,5 +1,7 @@
 ---
 layout: page
 title: Photos
-subtitle: coming soon
 ---
+This is a gallery.
+
+{% include image-gallery.html folder="/galleries/friendship" %}

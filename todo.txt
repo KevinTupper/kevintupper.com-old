@@ -1,3 +1,10 @@
+Document includsion of:
+
+https://jekyllcodex.org/without-plugin/lightbox/#
+https://jekyllcodex.org/without-plugin/image-gallery/#
+
+
+
 
 
 Me on the web
