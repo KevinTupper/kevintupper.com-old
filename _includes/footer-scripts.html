@@ -30,3 +30,22 @@
     <script src="{{ js | relative_url }}"></script>
   {% endfor %}
 {% endif %}
+
+
+{% if page.js %}
+  {% for js in page.js %}
+    <script src="{{ js | relative_url }}"></script>
+  {% endfor %}
+{% endif %}
+
+<!-- KT-MOD -->
+{% if page.gallery %}
+<script type="text/javascript">
+  $(document).ready(function() {
+      $("#lightgallery").lightGallery(); 
+  });
+</script>
+{% endif %}
+
+
+

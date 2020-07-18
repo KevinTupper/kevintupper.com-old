@@ -1,10 +1,5 @@
-Document includsion of:
 
-https://jekyllcodex.org/without-plugin/lightbox/#
-https://jekyllcodex.org/without-plugin/image-gallery/#
-
-
-
+Document use of:   https://sachinchoolur.github.io/lightGallery/docs/#installation
 
 
 Me on the web

@@ -8,4 +8,4 @@ galleries:
 ---
 Like everyone these days, we capture photos of our travels and outings.  Here are some I like to remember.  The ones with the best composition were probably taken by Hilary. 
 
-{% if page.galleries %}{% include image-gallery-index.html %}{% endif %}
+[Friendship](/photos/friendship-maine-2015)
