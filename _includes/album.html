@@ -10,9 +10,7 @@
    <ul class="image-gallery">  
         {% for image in site.static_files %}
             {% if image.path contains include.albumname %}
-                {% assign filenameparts = image.path | split: "/" %}
-                {% assign filename = filenameparts | last | replace: image.extname,"" %}
-                <a href="{{ image.path }}" ><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ image.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" /></a>
+                <li><a href="{{ image.path }}" ><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ image.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ image.basename }}" title="{{ image.basename }}" /></a></li>
             {% endif %}
         {% endfor %}
     </ul>
