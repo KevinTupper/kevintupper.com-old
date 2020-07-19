@@ -1,6 +1,13 @@
 
 Document use of:   https://sachinchoolur.github.io/lightGallery/docs/#installation
 
+Finsish Gallery and Gallery Index -
+
+https://jekyllcodex.org/without-plugin/image-gallery/#
+https://jimmyxiao.me/guides/technical/2019/07/28/folder-based-jekyll-lightgallery
+
+Gallery Index technique here:  https://jekyllcodex.org/without-plugin/image-gallery-index/
+
 
 Me on the web
 
