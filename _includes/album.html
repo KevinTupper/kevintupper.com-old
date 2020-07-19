@@ -1,9 +1,19 @@
+w<style>
+    .image-gallery {overflow: auto; margin-left: -1%!important;}
+    .image-gallery li {float: left; display: block; margin: 0 0 1% 1%; width: 19%;}
+    .image-gallery li a {text-align: center; text-decoration: none!important; color: #777;}
+    .image-gallery li a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;}
+    .image-gallery li a img {width: 100%; display: block;}
+</style>
+
 <div id="lightgallery">
-    {% for image in site.static_files %}
-        {% if image.path contains include.albumname %}
-            {% assign filenameparts = image.path | split: "/" %}
-            {% assign filename = filenameparts | last | replace: image.extname,"" %}
-            <a href="{{ image.path }}" ><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ image.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" /></a>
-        {% endif %}
-    {% endfor %}
+e    <ul class="image-gallery">  
+        {% for image in site.static_files %}
+            {% if image.path contains include.albumname %}
+                {% assign filenameparts = image.path | split: "/" %}
+                {% assign filename = filenameparts | last | replace: image.extname,"" %}
+                <a href="{{ image.path }}" ><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ image.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" /></a>
+            {% endif %}
+        {% endfor %}
+    </ul>
 </div>
