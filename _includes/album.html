@@ -5,5 +5,9 @@
 </style>
 
 <div id="lightgallery" class="image-gallery">
-    {% for image in site.static_files %}{% if image.path contains include.albumname %}<a href="{{ image.path }}" ><img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ image.path | relative_url }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ image.basename }}" title="{{ image.basename }}" /></a>{% endif %}{% endfor %}
+{% for item in page.galleryimages %}
+<a href="{{ item.image }}" data-sub-html="<h4>{{item.caption}}</h4><p>{{item.description}}</p>">
+    <img src="//images.weserv.nl/?url={{ site.url | replace: 'http://','' | replace: 'https://','' }}{{ item.image }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ item.caption }}" caption="{{ item.caption }}" />
+</a>
+{% endfor %}
 </div>

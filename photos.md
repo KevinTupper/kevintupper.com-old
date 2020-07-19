@@ -9,5 +9,4 @@ galleries:
 
 Photoghraphy is my way of slowing down and being present to the moment.  When feelings of deprivation cloud reality, these galleries are a witness of the good I have experienced.   The ones with the best composition were likely taken by Hilary. 
 
-
-{% if page.galleries %}{% include gallery.html %}{% endif %}
+{% include gallery.html %}
