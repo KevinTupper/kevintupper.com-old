@@ -14,9 +14,10 @@ author: Kevin Tupper
 
 # --- List of links in the navigation bar --- #
 navbar-links:
-  Technology: "technology"
-  Photos: "photos"
-  Updates: "updates"
+
+#  Technology: "technology"
+#  Photos: "photos"
+#  Updates: "updates"
 
 # --- Logo --- #
 
@@ -40,8 +41,8 @@ round-avatar: true
 social-network-links:
   facebook: kevin.tupper
   twitter: kevintupper
-  instagram: kevin_tupper
-  github: kevintupper
+#  instagram: kevin_tupper
+#  github: kevintupper
   linkedin: kevin-tupper
   rss: true
 #  reddit: yourname
