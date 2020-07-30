@@ -14,7 +14,7 @@ subtitle: Are you looking for me?
 
 ### Life with God
 
-* [Christian Simplicity](https://christiansimplicity.com) - is a blog where I share thoughts about God, money, and trust and write about Mindfulness Jesus-style.  It's currently static but I am relaunching it near the end of 20202.
+* [Christian Simplicity](https://christiansimplicity.com) - is a blog where I share thoughts about God, money, and trust and write about Mindfulness Jesus-style.  It's currently static but I am relaunching it near the end of 2020.
 
 * [Godminders](https://godminders.org) - is a messaging service "so you always remember."  Development is on hold since I starting a new job in July 2020.  I plan to start it back up in 12-18 months.
 
