@@ -12,7 +12,7 @@ subtitle: Are you looking for me?
 
 * [Twitter](https://twitter.com/kevintupper) – I don't tweet much, but I do read those I follow.  Public posts from LinkedIn and Facebook are tweeted through this account.
 
-### Life with God
-
-During the first half of 2021 I will move content from my [Christian Simplicity](https://christiansimplicity.com) and [Godminders](https://godminders.org) to this site.
+### 
+  During 2021 I will migrate the content from those sites to this one.
+I am closing down [Christian Simplicity](https://christiansimplicity.com) and [Godminders](https://godminders.org).  During 2021 I will migrate the content from those sites to this one.
 
